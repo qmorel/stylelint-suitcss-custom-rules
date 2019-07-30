@@ -5,7 +5,7 @@ I encourage you to have a llok at `src/index.js` to see all the rules.
 
 ## Installation
 ```sh
-npm install --save-dev https://bitbucket.org/minimo_0/stylelint-suitcss-rules
+npm install --save-dev https://github.com/qmorel/stylelint-suitcss-custom-rules
 ```
 
 ## Usage
