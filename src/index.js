@@ -37,6 +37,6 @@ module.exports = {
         "Selector should be follow the SUIT CSS naming conventions: see https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md (selector-class-pattern)"
       }
     ],
-    "unit-whitelist": ["deg", "em", "ex", "ms", "rem", "%", "s", "turn", "px", "vw", "vh"]
+    "unit-whitelist": ["deg", "em", "ex", "ms", "rem", "%", "s", "turn", "px", "vw", "vh", "fr", "ch"]
   }
 }
