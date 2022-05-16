@@ -45,7 +45,6 @@ const expected = `
 test('stylelint --fix', async t => {
   const data = await stylelint.lint({
     code: input,
-    syntax: 'scss',
     config: {
       extends: path.resolve('src', 'index.js')
     },

@@ -28,11 +28,11 @@
     "stylelint-order": "^3.0.1"
   },
   "devDependencies": {
-    "ava": "^2.2.0",
-    "stylelint": "^10.1.0"
+    "ava": "^4.2.0",
+    "stylelint": "^14.8.2"
   },
   "peerDependencies": {
-    "stylelint": ">=10.1.0",
-    "stylelint-order": ">=3.0.1"
+    "stylelint": ">=14.8.2",
+    "stylelint-order": ">=5.0.0"
   }
 }
