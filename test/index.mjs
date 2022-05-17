@@ -12,6 +12,8 @@ const input = `
   }
 
   .Component {
+    height: 26px;
+
     &.isRed {
       color: red;
     }
@@ -32,6 +34,8 @@ const expected = `
   }
 
   .Component {
+    height: 26px;
+
     &.is-red {
       color: red;
     }

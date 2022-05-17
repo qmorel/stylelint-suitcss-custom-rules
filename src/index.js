@@ -34,9 +34,8 @@ module.exports = {
       "^error$|^(t|u|is|has|not?)(-(sm|md|lg))?-[a-z0-9]+([A-Z0-9][a-z0-9]*)*$|^([a-z]+-)?(([A-Z0-9][a-z0-9]*)*)+(-[a-z0-9]+([A-Z0-9][a-z0-9]*)*)*(--[a-z0-9]+([A-Z0-9][a-z0-9]*)*)*$|^form-|^js$",
       {
         "message":
-        "Selector should be follow the SUIT CSS naming conventions: see https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md (selector-class-pattern)"
+          "Selector should be follow the SUIT CSS naming conventions: see https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md (selector-class-pattern)"
       }
-    ],
-    "unit-whitelist": ["deg", "em", "ex", "ms", "rem", "%", "s", "turn", "px", "vw", "vh", "fr", "ch"]
+    ]
   }
 }

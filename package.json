@@ -1,6 +1,6 @@
 {
   "name": "stylelint-suitcss-rules",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "List of stylelint rules for SuitCSS naming convention",
   "main": "src/index.js",
   "scripts": {
