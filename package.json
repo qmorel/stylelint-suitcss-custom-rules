@@ -1,6 +1,6 @@
 {
   "name": "stylelint-suitcss-rules",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "List of stylelint rules for SuitCSS naming convention",
   "main": "src/index.js",
   "scripts": {
@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "stylelint-config-sass-guidelines": "^9.0.1",
-    "stylelint-order": "^3.0.1"
+    "stylelint-order": "^5.0.0"
   },
   "devDependencies": {
     "ava": "^4.2.0",
